@@ -4,6 +4,7 @@ U-Net Artificial Intelligence for the Automated Segmentation of Solid Oxide Cell
 All code was written in Python via Windows Visual Studio Code editor, with a Juptyer Notebook kernel.
 
 Included:
+- Summer student research project report
 - U-Net with pre-trained VGG16
 - U-Net with pre-trained ResNet50
 - Cluster code with VGG16 model
